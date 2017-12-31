@@ -1,4 +1,4 @@
-# newcoinalert
+# New Coin Alert
 monitors crypto exchanges and alerts to new coins trading
 
 
